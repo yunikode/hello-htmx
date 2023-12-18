@@ -7,3 +7,4 @@ We approach this by going back in time to simple AJAX requests and sending simpl
 
 For the first iteration we use the standard library provided tools from Go for the server and routing, and HTMX as a frontend library
 
+## Step 2: Add templ as a Templating solution
